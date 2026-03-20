@@ -3,9 +3,14 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hina-shafique&label=Profile%20Views&style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/hina-shafique?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/hina-shafique?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/hinach1912?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/hinach1912?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Remote-Worldwide-success?style=for-the-badge" />
+</p>
+
+
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hinach1912&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
 <!-- <p align="center">
@@ -121,7 +126,7 @@
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hina-shafique&layout=compact&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinach1912&layout=compact&theme=tokyonight" />
 </p>
 
 ---
