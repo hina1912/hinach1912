@@ -126,7 +126,7 @@
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinach1912&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hinach1912&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
