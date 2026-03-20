@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/Remote-Worldwide-success?style=for-the-badge" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hina-shafique&theme=tokyonight&no-frame=true&row=1" />
-</p>
+</p> -->
 
 ---
 
