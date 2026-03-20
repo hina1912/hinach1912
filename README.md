@@ -22,20 +22,20 @@
 - 🔊 Specialized in **AI Voice Agents & Automation Systems**
 - ⚡ Building high-performance backend systems & APIs
 - 💬 Ask me about **FastAPI, Python, AI Agents, LLMs, Backend Architecture**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **hinach1912@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/hina-shafique">
+  <a href="https://github.com/hina1912">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/hina-shafique-279400203">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:hinach1912@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
