@@ -121,10 +121,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hina-shafique&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.demolab.com?user=hina-shafique&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hina1912&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.demolab.com?user=hina1912&theme=tokyonight" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hinach1912&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
+</p>
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hinach1912&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
 </p> -->
